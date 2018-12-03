@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://styleidentity.github.io/</loc>
-    <lastmod>2018-07-06T18:19:54+00:00</lastmod>
+    <loc>https://styleidentity.github.io/categories/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://styleidentity.github.io/categories/</loc>
+    <loc>https://styleidentity.github.io/</loc>
     <priority>0</priority>
   </url>
   
